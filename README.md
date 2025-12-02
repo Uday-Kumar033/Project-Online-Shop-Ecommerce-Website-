@@ -1,9 +1,4 @@
 # Online Shop 🛍️
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-iemafzalhassan-blue?logo=github&style=flat)](https://github.com/iemafzalhassan)
-![Forks](https://img.shields.io/github/forks/iemafzalhassan/online_shop)
-[![Stars](https://img.shields.io/github/stars/iemafzalhassan/online_shop)](https://github.com/iemafzalhassan/online_shop)
-![GitHub last commit](https://img.shields.io/github/last-commit/iemafzalhassan/easyshop?color=red)
 <p align="center">
 
 
@@ -172,7 +167,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React team for the amazing framework
 - Bootstrap team for the UI components
 - All our contributors and supporters
-
-## 📞 Support
-
-For support, email iemafzalhassan@gmail.com or join our [Discord channel](https://discord.gg/aVMWfSKA). 
